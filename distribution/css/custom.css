@@ -1,0 +1,16 @@
+.navbar-brand {
+    display: inline-block;
+    padding-top: 0.33125rem;
+    padding-bottom: 0.33125rem;
+    margin-right: 1rem;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+
+.ui-autocomplete-category {
+    font-weight: bold;
+    padding: .2em .4em;
+    margin: .8em 0 .2em;
+    line-height: 1.5;
+  }
